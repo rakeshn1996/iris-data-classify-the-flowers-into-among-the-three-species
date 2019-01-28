@@ -71,3 +71,4 @@ print(classification_report(y_test,y_pred))
 lin.predict([[6,2,3,4]])
 
 
+thanks
