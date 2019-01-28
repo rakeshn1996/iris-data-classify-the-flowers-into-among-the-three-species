@@ -72,3 +72,4 @@ lin.predict([[6,2,3,4]])
 
 
 thanks
+..
